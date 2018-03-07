@@ -4,4 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![ Enterprise Application Integration ](assets/2018-03-04-p01.png)

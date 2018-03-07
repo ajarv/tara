@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "How To Hire People"
+categories: "E A I"
+---
+
+## How to ensure development efficiency?
+
+## How to ensure perational efficency?
+
+## How does the sytem handle errors?
+
+## Is your integration environment ready for Machine Learning?
+

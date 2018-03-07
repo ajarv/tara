@@ -1,13 +1,20 @@
 ---
 layout: post
-title:  "Best Practices for implementing EAI"
+title:  "System Integration- Tech Questions worth answering"
 date:   2018-03-04 07:18:05 -0800
 categories: eai
 ---
-#Welcome
-``` javascript
-function jazyg(e){
-    e.x = 90;
-}
-```
+
+## What is the benchmark for system performance ?
+
+
+
+## Shit will hit the fan and it will be swriled around.
+
+### What is your error cathing stratergy
+
+* Be the first one to know
+* Know who to call
+
+## Is your integration environment ready for Machine Learning?
 
